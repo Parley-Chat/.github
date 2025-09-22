@@ -1,7 +1,7 @@
 # Parley Chat
 
 An E2EE, self-hostable chatting app, made with internet censorship in mind.\
-Documentation: https://docs.parley-chat.site\
+Documentation: https://docs.parley-chat.site \
 Official Parley Chat Instance: https://parley-chat.site
 
 ## Supporting the project
